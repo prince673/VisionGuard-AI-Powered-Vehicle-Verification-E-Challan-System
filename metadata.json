@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of TrafficGuard AI",
+  "description": "AI-powered Traffic Violation Detection & Challan Management System using Gemini Vision and ALPR.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
